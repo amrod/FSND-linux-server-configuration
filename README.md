@@ -6,6 +6,7 @@ Udacity Full Stack Nanodegree Project "Linux Server Configuration"
 ## Applicaiton URL: http://54.172.59.152.xip.io/
 ## Software Installed:
 * Software packages:
+  * apache2
   * postgresql 
   * python-psycopg2
   * python-sqlalchemy
