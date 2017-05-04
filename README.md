@@ -27,6 +27,9 @@ Udacity Full Stack Nanodegree Project "Linux Server Configuration"
   * Flask-OAuth 0.12
   * PyOpenSSL 17.0.0
 
+* Catalog Application
+  * https://github.com/amrod/catalog-app
+
 ## Third-party resources used to complete this project:
 
 * [StackOverflow](https://www.stackoverflow.com)
